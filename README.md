@@ -4,7 +4,7 @@ Sujay's Tip Calculator is a tip calculator application for iOS.
 
 Submitted by: Sujay Jain
 
-Time spent: 1 hour spent in total
+Time spent: 1.5 hours spent in total
 
 ## User Stories
 
@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://drive.google.com/file/d/1edxamhE1FJf3lBzVFB5xH48fp2DI0707/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/OpO4zHJ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [ezgif](https://ezgif.com/).
 
@@ -36,7 +36,7 @@ GIF created with [ezgif](https://ezgif.com/).
 
 Describe any challenges encountered while building the app.
 
-The most challenge for me in building this app was that I had never worked with Swift. So, I had to learn the syntax and some basics of the language. The other challenge that I faced was in aliging the text elements so that they do not bleed out of the screen. This took a little bit of trial and error as I have very little experience in design. 
+The most significant challenge for me in building this app was that I had never worked with Swift. So, I had to learn the syntax and some basics of the language. The other challenge that I faced was in aligning the text elements so that they do not bleed out of the screen. This took a little bit of trial and error as I have very little experience in design. 
 
 ## License
 
